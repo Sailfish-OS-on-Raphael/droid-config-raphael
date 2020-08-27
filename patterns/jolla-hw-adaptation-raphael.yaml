@@ -14,6 +14,7 @@ Requires:
 - droid-config-raphael-flashing
 - droid-config-raphael-bluez5
 - droid-hal-version-raphael
+- droid-hal-raphael-detritus
 
 # Hybris packages
 - libhybris-libEGL
